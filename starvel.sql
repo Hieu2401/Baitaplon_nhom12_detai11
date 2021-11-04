@@ -118,10 +118,7 @@ CREATE TABLE `hoadon` (
 --
 
 INSERT INTO `hoadon` (`id_hoadon`, `id_goi`, `id_ks`, `email_nguoidung`, `nguoilon`, `treem`, `trenho`, `embe`, `phongdon`, `ngayvao`, `ngayra`, `sophong`, `ghichu`, `ngaydat`, `trangthai`, `huy`, `ngaycapnhat`) VALUES
-(1, NULL, 1, 'hungds.k5611@gmail.com', 0, 0, 0, 0, NULL, '', '', 2, '', '2020-06-23 17:51:42', 2, 'u', '2020-06-23 17:51:56'),
-(2, 51, NULL, 'hungds.k5611@gmail.com', 2, 0, 1, 0, 0, '', '', 0, 'Không ghi chú', '2020-06-24 07:15:25', 0, '', '0000-00-00 00:00:00'),
-(3, 58, NULL, 'hungds.k56@vinhuni.edu.vn', 2, 0, 2, 0, 0, '', '', 0, '', '2020-06-24 16:07:18', 0, '', '0000-00-00 00:00:00'),
-(4, NULL, 2, 'hungds.k56@vinhuni.edu.vn', 0, 0, 0, 0, NULL, '', '', 3, '', '2020-06-24 16:07:41', 2, 'u', '2020-06-24 16:07:53');
+
 
 -- --------------------------------------------------------
 
