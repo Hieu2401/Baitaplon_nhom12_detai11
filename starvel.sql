@@ -126,12 +126,6 @@ INSERT INTO `hoadon` (`id_hoadon`, `id_goi`, `id_ks`, `email_nguoidung`, `nguoil
 -- --------------------------------------------------------
 
 --
--- Cấu trúc bảng cho bảng `khachsan`
---
-
-
-
---
 -- Cấu trúc bảng cho bảng `nguoidung`
 --
 
