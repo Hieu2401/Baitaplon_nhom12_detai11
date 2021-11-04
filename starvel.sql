@@ -18,7 +18,7 @@ SET time_zone = "+00:00";
 -- --------------------------------------------------------
 
 --
--- Cấu trúc bảng cho bảng `admin`
+-- Cấu trúc bảng cho bảng `admin
 --
 
 CREATE TABLE `admin` (
